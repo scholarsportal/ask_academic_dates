@@ -6,8 +6,8 @@ authors = ["Guinsly Mondesir <guinslym@gmail.com>"]
 keywords = ["Ask", "Scholars Portal", "Ontario"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/guinslym/flake8-markdown"
-repository = "https://github.com/guinslym/flake8-markdown"
+homepage = "https://github.com/guinslym/ask_academic_dates"
+repository = "https://github.com/guinslym/ask_academic_dates"
 classifiers = [
     "Operating System :: OS Independent",
     "Topic :: Software Development :: Documentation",
