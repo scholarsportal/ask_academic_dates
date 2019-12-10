@@ -1,4 +1,4 @@
-__version__ = '0.2.3'
+__version__ = '0.2.4'
 
 from datetime import date
 
@@ -22,6 +22,23 @@ ended_2018 = date(2019, 9, 9)
 #2019-2020
 started_2019 = date(2019, 9, 9)
 ended_2019 = date(2020, 8, 7)
+
+def find_academic_dates(academic_year):
+    try:
+        if academic_year == '2015-2016':
+            return [started_2015, ended_2015]
+        elif academic_year == '2016-2017':
+            return [started_2016, ended_2016]
+        elif academic_year == '2017-2018':
+            return [started_2017, ended_2017]
+        elif academic_year == '2018-2019':
+            return [started_2018, ended_2018]
+        elif academic_year == '2019-2020':
+            return [started_2019, ended_2019]
+        else:
+            return None
+    except:
+        return None
 
 
 def find_academic_year(given_date):

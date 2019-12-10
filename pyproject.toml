@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ask_academic_dates"
-version = "0.2.3"
+version = "0.2.4"
 description = "Ask Scholars Portal Academic Date finder"
 authors = ["Guinsly Mondesir <guinslym@gmail.com>"]
 keywords = ["Ask", "Scholars Portal", "Ontario"]
