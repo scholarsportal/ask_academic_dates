@@ -1,4 +1,4 @@
-# Ask Schools
+# Ask Academic Date
 
 [
 ![PyPI](https://img.shields.io/pypi/v/ask_schools.svg)
