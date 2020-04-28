@@ -17,7 +17,10 @@ This package helps convert Ask School suffixes to the school full name.
 
 ```
 pip install ask_academic_dates
+# or
+poetry add ask_academic_dates
 ```
+
 
 ## Usage
 
@@ -38,3 +41,11 @@ def check_find_academic_year():
 ## Code of Conduct
 
 Everyone interacting in the project's codebases, issue trackers, chat rooms, and mailing lists is expected to follow the [PyPA Code of Conduct](https://www.pypa.io/en/latest/code-of-conduct/).
+
+### Todo
+1.  Test
+2.  Refactor
+3.  Add docstring
+4.  Add a Makefile
+5.  Add show terminal graph for a given month
+6.  Create a .rst file and add metadata for 
